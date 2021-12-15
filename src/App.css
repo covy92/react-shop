@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.jumbotron{
+  background-image: url('./jumbotron.jpeg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
 .App-header {
   background-color: #282c34;
